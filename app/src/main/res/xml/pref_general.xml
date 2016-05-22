@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference android:key="@string/pref_location_key" android:defaultValue="1880251"
+        android:title="@string/pref_location" android:summary="@string/pref_loc_summary"/>
+    <ListPreference android:key="@string/pref_key_temp_units" android:defaultValue="metric"
+        android:title="@string/pref_temp_units"
+        android:entries="@array/pref_temp_units_entries"
+        android:entryValues="@array/pref_temp_units_values"/>
+
+
+
+</PreferenceScreen>

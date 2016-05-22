@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SunShine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh Buddy</string>
+    <string name="title_activity_forecast_detail">ForecastDetailActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="pref_location_key">location</string>
+    <string name="pref_location">Location</string>
+    <string name="pref_loc_summary">Choose Your Location for getting weather forecast</string>
+    <string name="pref_key_temp_units">Temp Units</string>
+    <string name="pref_temp_units">Pick Your Temp Units</string>
+    <string name="location_map">Location Map</string>
+
+</resources>
